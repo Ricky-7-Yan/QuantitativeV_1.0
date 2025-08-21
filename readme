@@ -1,0 +1,2 @@
+先配置环境pip install streamlit pandas numpy matplotlib plotly yfinance tqdm mplfinance
+然后终端运行streamlit run app.py
